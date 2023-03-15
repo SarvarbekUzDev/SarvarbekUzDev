@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/SarvarbekUzDev/" target="blank"><img align="center" src="https://logo-download.com/wp-content/data/images/png/Telegram-logo.png" alt="mokhamed.03" height="30" width="40" /></a>
+<a href="https://t.me/SarvarbekUzDev/" target="blank"><img align="center" src="https://www.svgrepo.com/show/271091/telegram.svg" alt="mokhamed.03" height="30" width="40" /></a>
 <a href="https://github.com/SarvarbekUzDev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="SarvarbekUzDev" height="30" width="40" /></a>
 </p>
 
