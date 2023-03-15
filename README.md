@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> 
-    Hi there 👋 
+    Hi there 👋 <br/>
     I am Aminov Sarvarbek, a Python BackEnd developer
   </h1>
   
