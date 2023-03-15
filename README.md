@@ -3,7 +3,7 @@
     Hi there 👋 <br/>
   </h1>
 </div>
-### I am Aminov Sarvarbek, a Python BackEnd developer
+### I am Aminov Sarvarbek, a Python BackEnd developer 
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
