@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h1 align="center">Hi 👋, I'm Sarvarbek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuhammad" alt="iamuhammad" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SarvarbekUzDev" alt="Sarvarbek" /></a> </p>
+<!-- 
 - 🔭 I’m currently working on [blog](https://github.com/IaMuhammad/blog)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 You can get in touch with me by email at [abduvaliyevmuhammad41@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com)
+- 💬 You can get in touch with me by email at [abduvaliyevmuhammad41@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mokhamed.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokhamed.03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mamuhammad571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mamuhammad571" height="30" width="40" /></a>
+<a href="https://t.me/SarvarbekUzDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokhamed.03" height="30" width="40" /></a>
+<a href="https://github.com/SarvarbekUzDev" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)" alt="SarvarbekUzDev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>  
