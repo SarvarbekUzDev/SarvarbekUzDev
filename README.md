@@ -2,9 +2,8 @@
   <h1> 
     Hi there 👋 <br/>
   </h1>
-  <h2>I am Aminov Sarvarbek, a Python BackEnd developer</h2>
-  
-
+</div>
+### I am Aminov Sarvarbek, a Python BackEnd developer
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
