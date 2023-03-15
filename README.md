@@ -1,48 +1,19 @@
-<!-- <div id="header" align="center">
-  <h1> 
-    Hi there 👋 <br/>
-  </h1>
-</div>
+<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-<div align="center">
-  I am Aminov Sarvarbek, a Python BackEnd developer
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuhammad" alt="iamuhammad" /></a> </p>
 
-<div id="badges">
-  <a href="https://github.com/SarvarbekUzDev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/SarvarbekUzDev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 🔭 I’m currently working on [blog](https://github.com/IaMuhammad/blog)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarvarbekUzDev)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning **Django Rest Framework**
 
+- 💬 You can get in touch with me by email at [abduvaliyevmuhammad41@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com)
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
- -->
- 
- 
- 
- 
-<!--   -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mokhamed.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokhamed.03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mamuhammad571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mamuhammad571" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-```yaml 
-* MATNINGIZ BU YERGA * 
-```
-
-
-<h2> 🚀  Men foydalangan va oʻrgangan baʼzi vositalar</h2> 
-<p align="left"> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/ vscode-original.svg " alt="vscode" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash- original.svg " alt="bash" width="45" height="45"/> 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original. svg " alt="php" width="45" height="45"/> 
-</p>
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
